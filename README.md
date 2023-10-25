@@ -10,7 +10,7 @@
 <tr>
 <th align="left">#</th>
 <th align="center">Project Name</th>
-<th align="right">source Code/preview</th>
+<th align="center">source Code/preview</th>
 
 </tr>
 </thead>
@@ -18,10 +18,50 @@
 <tr>
 <td align="left">1</td>
 <td align="center">Drawing a Square using Turtle</td>
-<td align="right"><a href="https://replit.com/@vayolapradeep00/drawing-a-square-using-Turtle" rel="nofollow">https://replit.com/@vayolapradeep00/drawing-a-square-using-Turtle</a></td>  
+<td align="left"><a href="https://replit.com/@vayolapradeep00/drawing-a-square-using-Turtle" rel="nofollow">https://replit.com/@vayolapradeep00/drawing-a-square-using-Turtle</a></td>  
 </tr>
 
+<tr>
+<td align="left">2</td>
+<td align="center">Drawing a Square using Turtle with User Inputs</td>
+<td align="left"><a href="https://replit.com/@vayolapradeep00/Draws-a-square-using-the-turtle-graphics-using-user-input" rel="nofollow">https://replit.com/@vayolapradeep00/Draws-a-square-using-the-turtle-graphics-using-user-input</a></td>  
+</tr>
 
+<tr>
+<td align="left">3</td>
+<td align="center">Love Calculator</td>
+<td align="left"><a href="https://replit.com/@vayolapradeep00/Love-Calculator" rel="nofollow">https://replit.com/@vayolapradeep00/Love-Calculator</a></td>  
+</tr>
+
+<tr>
+<td align="left">4</td>
+<td align="center">Treasure Hunt</td>
+<td align="left"><a href="https://replit.com/@vayolapradeep00/treasure-hunt" rel="nofollow">https://replit.com/@vayolapradeep00/treasure-hunt</a></td>  
+</tr>
+
+<tr>
+<td align="left">6</td>
+<td align="center">Rollarcoaster Ride</td>
+<td align="left"><a href="https://replit.com/@vayolapradeep00/Rollercoaster-Ride" rel="nofollow">https://replit.com/@vayolapradeep00/Rollercoaster-Ride</a></td>  
+</tr>
+
+<tr>
+<td align="left">7</td>
+<td align="center">How many Days left if you live until 90 year old</td>
+<td align="left"><a href="https://replit.com/@vayolapradeep00/How-many-Days-left-if-you-live-until-90-year-old" rel="nofollow">https://replit.com/@vayolapradeep00/How-many-Days-left-if-you-live-until-90-year-old</a></td>  
+</tr>
+
+<tr>
+<td align="left">8</td>
+<td align="center">Pizza Order</td>
+<td align="left"><a href="https://replit.com/@vayolapradeep00/pizza-order" rel="nofollow">https://replit.com/@vayolapradeep00/pizza-order</a></td>  
+</tr>
+
+<tr>
+<td align="left">9</td>
+<td align="center">Leap year</td>
+<td align="left"><a href="https://replit.com/@vayolapradeep00/Leap-Year" rel="nofollow">https://replit.com/@vayolapradeep00/Leap-Year</a></td>  
+</tr>
 
 </tbody></table>
 
