@@ -63,6 +63,24 @@
 <td align="left"><a href="https://replit.com/@vayolapradeep00/Leap-Year" rel="nofollow">https://replit.com/@vayolapradeep00/Leap-Year</a></td>  
 </tr>
 
+<tr>
+<td align="left">10</td>
+<td align="center">Odd or Even</td>
+<td align="left"><a href="https://replit.com/@vayolapradeep00/odd-or-even" rel="nofollow">https://replit.com/@vayolapradeep00/odd-or-even</a></td>  
+</tr>
+
+<tr>
+<td align="left">11</td>
+<td align="center">Sum of two digit number</td>
+<td align="left"><a href="https://replit.com/@vayolapradeep00/sum-of-two-digit" rel="nofollow">https://replit.com/@vayolapradeep00/sum-of-two-digit</a></td>  
+</tr>
+
+<tr>
+<td align="left">12</td>
+<td align="center">BMI of a Person</td>
+<td align="left"><a href="https://replit.com/@vayolapradeep00/BMI-of-a-Person" rel="nofollow">https://replit.com/@vayolapradeep00/BMI-of-a-Person</a></td>  
+</tr>
+
 </tbody></table>
 
 <h3 align="left">Connect with me:</h3>
