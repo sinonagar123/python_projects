@@ -83,7 +83,7 @@
 <tr>
 <td align="left">13</td>
 <td align="center">Tip Calculator</td>
-<td align="left"><a href="[https://replit.com/@vayolapradeep00/Tip-Calculator" rel="nofollow">https://replit.com/@vayolapradeep00/Tip-Calculator</a></td>  
+<td align="left"><a href="https://replit.com/@vayolapradeep00/Tip-Calculator" rel="nofollow">https://replit.com/@vayolapradeep00/Tip-Calculator</a></td>  
 </tr>
 <tr>
 <td align="left">14</td>
