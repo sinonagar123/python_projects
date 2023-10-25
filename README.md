@@ -80,8 +80,20 @@
 <td align="center">BMI of a Person</td>
 <td align="left"><a href="https://replit.com/@vayolapradeep00/BMI-of-a-Person" rel="nofollow">https://replit.com/@vayolapradeep00/BMI-of-a-Person</a></td>  
 </tr>
-
-</tbody></table>
+<tr>
+<td align="left">13</td>
+<td align="center">Tip Calculator</td>
+<td align="left"><a href="[https://replit.com/@vayolapradeep00/Tip-Calculator" rel="nofollow">https://replit.com/@vayolapradeep00/Tip-Calculator</a></td>  
+</tr>
+<tr>
+<td align="left">14</td>
+<td align="center">Factorial of a number</td>
+<td align="left"><a href="https://replit.com/@vayolapradeep00/factorial" rel="nofollow">https://replit.com/@vayolapradeep00/factorial</a></td>  
+</tr>
+<td align="left">15</td>
+<td align="center">Multiplication of a number</td>
+<td align="left"><a href="https://replit.com/@vayolapradeep00/multiplication-of-a-number" rel="nofollow">https://replit.com/@vayolapradeep00/multiplication-of-a-number</a></td>  
+</tr></tbody></table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
