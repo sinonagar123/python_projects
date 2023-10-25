@@ -1,7 +1,8 @@
 ![WhatsApp Image 2023-10-24 at 9 07 26 PM](https://github.com/sinonagar123/python_projects/assets/102567147/6aca94b9-4576-4691-bd04-677b760da3a9)
 
 
-<h3 align="center">Coding Wonders: Unleashing Imagination through Python.</h3>
+<h3 align="center">Python Projects: Unleashing Innovation Through Code</h3>
+<h4></h4>Embark on a journey through our Python projects, where creativity and precision merge. We transform ideas into powerful solutions, from web development to machine learning. Join us in shaping the digital landscape and witness innovation driven by Python's transformative capabilities..</h4>
 <h3 align="center">Down here you will find all the live previews.</h3>
 
 <table>
@@ -16,8 +17,8 @@
 <tbody>
 <tr>
 <td align="left">1</td>
-<td align="center">CSS Flexbox Photogallery</td>
-<td align="right"><a href="https://codepen.io/vayolapradeep/pen/LYXoGXL" rel="nofollow">https://codepen.io/vayolapradeep/pen/LYXoGXL</a></td>  
+<td align="center">Drawing a Square using Turtle</td>
+<td align="right"><a href="https://replit.com/@vayolapradeep00/drawing-a-square-using-Turtle" rel="nofollow">https://replit.com/@vayolapradeep00/drawing-a-square-using-Turtle</a></td>  
 </tr>
 
 
