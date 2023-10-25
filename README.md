@@ -1,4 +1,5 @@
-![banner](https://github.com/sinonagar123/html_css_projects/assets/102567147/462c8e23-d30f-4b92-87b0-f8d9c45194e0)
+![WhatsApp Image 2023-10-24 at 9 07 26 PM](https://github.com/sinonagar123/python_projects/assets/102567147/6aca94b9-4576-4691-bd04-677b760da3a9)
+
 
 <h3 align="center">Unveiling imaginative web creations with HTML & CSS. Designing digital wonders, blending code and aesthetics.</h3>
 <h3 align="center">Down here you will find all the live previews.</h3>
