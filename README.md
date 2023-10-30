@@ -98,7 +98,13 @@
 <td align="left">16</td>
 <td align="center">Turtle Race</td>
 <td align="left"><a href="https://replit.com/@vayolapradeep00/Turtle-Race" rel="nofollow">https://replit.com/@vayolapradeep00/Turtle-Race</a></td>  
-</tr></tbody></table>
+</tr>
+<tr>
+<td align="left">17</td>
+<td align="center">How to draw Smiley using Python graphics</td>
+<td align="left"><a href="https://replit.com/@vayolapradeep00/how-to-draw-smiley#main.py" rel="nofollow">https://replit.com/@vayolapradeep00/how-to-draw-smiley</a></td>  
+</tr>
+</tbody></table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
