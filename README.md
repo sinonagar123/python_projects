@@ -1,4 +1,4 @@
-![WhatsApp Image 2023-10-24 at 9 07 26 PM](https://github.com/sinonagar123/python_projects/assets/102567147/6aca94b9-4576-4691-bd04-677b760da3a9)
+![WhatsApp Image 2023-11-01 at 4 30 21 PM](https://github.com/sinonagar123/python_projects/assets/102567147/b78d7492-5162-4544-a551-8d007daa7873)
 
 
 <h3 align="center">Python Projects: Unleashing Innovation Through Code</h3>
